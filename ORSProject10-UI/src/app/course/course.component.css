@@ -1,0 +1,20 @@
+.courseBtn-Group{
+    display: flex;
+    margin-top: 10%;
+}
+
+.courseBtn{
+    display: flex;
+}
+
+.previous{
+    margin-right:1%;
+}
+
+.courseBtnGroup{
+    display: flex;
+}
+
+.searchInput{
+    margin-right:1%;
+}

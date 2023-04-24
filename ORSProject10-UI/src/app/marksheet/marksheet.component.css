@@ -1,0 +1,54 @@
+.alertRedColor {
+    color: red;
+}
+
+
+.required-field::after { 		
+  content: "*";		
+  color: red;		
+   }	
+
+   .successColor{
+    color: green;
+   }
+
+   .btn-space {
+    margin-right: 5px;
+    
+}
+
+.addMarkBtn{
+
+    display:flex;
+}
+
+.btnList{
+    display: flex;
+    margin: auto;
+}
+
+.previous {
+    margin: 0 20px 0 0; 
+  }
+
+  .back{
+    margin: 0 20px 0 20px;
+  }
+
+  .next {
+     margin: 0 0 20px 15px; 
+  }
+
+  .marksBtn-group{
+     display: flex;
+
+  }
+
+  .deleteBtn{
+    margin: 0 0 0 10px;
+  }
+
+  .addMarksheetBtn-group{
+    margin: 0 0 0 10px;
+  }
+  

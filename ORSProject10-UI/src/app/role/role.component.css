@@ -1,0 +1,23 @@
+.alertRedColor {
+    color: red;
+}
+
+.roleBtn-Group{
+    display: flex;
+}
+
+.addRoleBtn-Group{
+    margin: 0 10px 0 10px;
+}
+
+.btnRoleList{
+    display: flex;
+}
+
+.previousBtn{
+    margin: 0 10px 0 0;
+}
+
+.btnList{
+    display: flex;
+}

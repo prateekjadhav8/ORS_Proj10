@@ -1,0 +1,27 @@
+.alertRedColor {
+    color: red;
+}
+
+
+.required-field::after { 		
+  content: "*";		
+  color: red;		
+   }	
+
+   .successColor{
+    color: green;
+   }
+
+   .btn-space {
+    margin-right: 5px;
+}
+
+.studentBtn-Group{
+    display: flex;
+
+}
+
+.previous{
+    margin: 0 10px 0 0;
+}
+
